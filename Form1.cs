@@ -16,5 +16,17 @@ namespace _9_12_GUI_Summative
         {
             InitializeComponent();
         }
+
+        private void imgBox_Click(object sender, EventArgs e)
+        {
+            int temperature;
+
+            temperature = Convert.ToInt32(txtCelsius.Text);
+
+
+
+
+
+        }
     }
 }
